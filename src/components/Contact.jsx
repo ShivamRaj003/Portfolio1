@@ -48,7 +48,7 @@ const Contact = () => {
                                     </svg>
                                 </a>
                                 <a
-                                    href="https://github.com/shivanraj"
+                                    href="https://github.com/ShivamRaj003"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-slate-400 hover:text-blue-400 transition-all duration-300 hover:scale-110"
@@ -72,3 +72,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
