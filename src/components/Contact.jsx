@@ -23,7 +23,7 @@ const Contact = () => {
                             </a>
 
                             <a
-                                href="tel:7070828266"
+                                href="tel:7667649610"
                                 className="btn-secondary flex items-center gap-2"
                             >
                                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -72,3 +72,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
