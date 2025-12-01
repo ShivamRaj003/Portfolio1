@@ -4,7 +4,7 @@ const Experience = () => {
             title: 'Web Developer Intern',
             company: 'Urgent It Solution',
             location: 'Remote',
-            period: 'Feb 2025 – ongoing',
+            period: 'Feb 2025 – Sep 2025',
             achievements: [
                 'Worked on existing web application for Spark Tech Solutions, a live website promoting IT and marketing related services.',
                 'Built responsive front-end interfaces, ensuring a seamless user experience and reliable site performance.'
@@ -63,3 +63,4 @@ const Experience = () => {
 };
 
 export default Experience;
+
